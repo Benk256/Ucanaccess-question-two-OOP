@@ -1,1 +1,9 @@
 # Ucanaccess-question-two-OOP
+this question displays a dashboard system that helps the school rigester student details into the digitalized system
+GROUP MEMBERS
+KAVUMA BENJAMIN VU-BIT-2201-0706-DAY
+KABOYO SHANON VU-BIT-2407-1905-DAY
+ARINDE JOHN KERRY VU-BIT-2407-1999-DAY
+NAKAZIBWE SWABULAH VU-BIT-2407-2408-DAY
+NYANZI ARAFAT BCS-2407-2408-DAY
+MUKISA ANDREW VU-BIT-2407-1730-DAY
